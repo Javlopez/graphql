@@ -10,6 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.19.1"
+    "@prisma/client": "^2.14.0",
+    "apollo-server": "^2.19.1",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "@prisma/cli": "^2.14.0"
   }
 }
